@@ -1,4 +1,4 @@
-**ModelNet10 shape classification implemented with tensorflow**
+**ModelNet-3dCNN-tensorflow: ModelNet10 shape classification implemented with tensorflow**
 
 ## Dataset: ModelNet10 
 http://modelnet.cs.princeton.edu/#
