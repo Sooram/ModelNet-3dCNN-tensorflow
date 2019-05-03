@@ -6,7 +6,7 @@ http://modelnet.cs.princeton.edu/#
 **[Data preparation]** \
 https://github.com/guoguo12/modelnet-cnn3d_bn
 
-[.off] -(1.voxelize)-> [.binvox](binary voxel) -(2.read)-> [numpy array](30,30,30)
+[.off] -(1.voxelize)-> [.binvox](binary voxel) -(2.read)-> \[Numpy array\](30,30,30)
 
 1. Voxelize\
 Read in .off file and change it into binary voxel data of .binvox file, using binvox(http://www.patrickmin.com/binvox/) program.
