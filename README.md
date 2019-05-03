@@ -1,5 +1,3 @@
-ModelNet10 shape classification implemented with tensorflow
-
 ## Dataset: ModelNet10 
 http://modelnet.cs.princeton.edu/#
 
