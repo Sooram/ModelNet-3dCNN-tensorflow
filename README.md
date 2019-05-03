@@ -15,3 +15,6 @@ Read [.binvox] file into Numpy array with (30,30,30) shaped elements, using [bin
 ## Network architecture
 very simple: input-ccp-ccp-dense-output
 ![Overview](https://github.com/Sooram/ModelNet-3dCNN-tensorflow/blob/master/network.PNG)
+
+## Visualize
+[.binvox] file can be visualized [here](https://github.com/raahii/simple_voxel_viewer).
