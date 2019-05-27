@@ -18,3 +18,6 @@ very simple: input-ccp-ccp-dense-output
 
 ## Visualization
 [.binvox] file can be viewed [here](https://github.com/raahii/simple_voxel_viewer).
+
+## Study(paper review)
+https://docs.google.com/presentation/d/183N5PUKAzACj1IkOT4K3F5m1iN-x-KaPIufhYXkqw5E/edit?usp=sharing
